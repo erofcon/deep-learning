@@ -14,7 +14,7 @@
 
 ## Полезные ссылки
 - Книга: [Grokking Deep Learning](https://manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258)
-- Оригинальные материалы автора [доступны здесь]: `https://github.com/iamtrask/Grokking-Deep-Learning/tree/master`.
+- Оригинальные материалы автора [доступны здесь](https://github.com/iamtrask/Grokking-Deep-Learning/tree/master).
 
 ## Примечания
 - Код ориентирован на наглядность и повторяемость примеров из книги.
