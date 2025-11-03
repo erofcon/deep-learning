@@ -2,7 +2,7 @@
 
 В этом репозитории — мои практические заметки и код по ходу изучения книги
 «Grokking Deep Learning». Ссылка на книгу: [Grokking Deep Learning](https://manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258 "Grokking Deep Learning").
-
+~
 ### Цели
 - **Понять основы**: нейроны, функции активации, градиентный спуск, обратное распространение.
 - **Практика в коде**: небольшие примеры и эксперименты по главам.
